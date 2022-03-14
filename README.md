@@ -5,3 +5,8 @@ Done from Scratch:
   - Perceptron : OneVsOne and OneVsAll
   - Multiple Perceptron 
   - Lineare Regression including Ridge 
+
+Using Scikit Learn:
+  - Decision Tree
+  - Gauss
+  - Knn
